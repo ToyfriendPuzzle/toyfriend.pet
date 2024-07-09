@@ -15,6 +15,7 @@ body {
   background:none 0% 0% repeat scroll;
   border:8px ridge rgba(0,0,0,1);
   padding:4px 0px;
+  font-size:1em;
 }
 .controls {
   display:flex;
