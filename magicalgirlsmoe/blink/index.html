@@ -1,0 +1,51 @@
+<link rel="shortcut icon" href="/catcar.gif">
+<title>feast your eyes</title>
+
+<style>
+    html {overflow:hidden;}
+    body {  
+        cursor: url('cursor.gif'), default;
+        background: #000000 url('blinking_eyes.gif');
+	}
+    
+    a {  
+        cursor: url('cursor2.gif'), auto;
+    }
+	#bg_glass {
+		position: absolute;
+		left: 0%;
+		bottom: 0%;
+		width: 100%;
+		height: 100%;
+		z-index: 1;
+	}
+	
+    #eyes {
+        position: absolute;
+        bottom: 16.5%;
+        left: 0%;
+        width: 100%;
+        height: 66%;
+		image-rendering: crisp-edges;
+		z-index: 2;
+    }
+
+	#glass {
+	    position: absolute;
+        left: 56%;
+        bottom: 73%;
+        width: 5%;
+        height: 6.6%;
+        z-index: 5;
+	}
+</style>
+
+<body>
+    <audio preload="auto" autoplay="autoplay" loop="loop">
+        <source src="Oneohtrix_Point_Never-When_i_get_back_from_new_york.mp3" type="audio/mp3">
+    </audio>
+
+    <img id="eyes" src="eyes_animate.gif"/>
+	<a href="../pulse"><img id="glass" src="glass.png"/></a>
+	<img id="bg_glass" src="glass.png"/>
+</body>

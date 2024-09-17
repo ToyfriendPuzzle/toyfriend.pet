@@ -1,0 +1,80 @@
+<link rel="shortcut icon" href="/catcar.gif">
+<title>an assault on the senses</title>
+
+<style>
+    html {overflow:hidden;}
+    body {  
+        cursor: url('cursor.gif'), default;
+	}
+    
+    a {  
+        cursor: url('cursor2.gif'), auto;
+    }
+    
+    #empty {
+        position: absolute;
+        bottom: 0%;
+        left: 0%;
+        width: 100%;
+        height: 100%;
+        z-index: 1;
+    }
+    
+    div.brean
+    {
+        width: 277px;
+        height: 477px;
+        margin-left: -138px;
+        margin-bottom: -238px;
+        z-index: 2;
+        position: absolute;
+    }
+    #brean1 {
+        animation: brean1 5s linear 0s infinite alternate;
+        transform: scaleX(-1);
+    }
+    #brean2 {
+        animation: brean2 5s linear 0s infinite alternate;
+    }
+    @keyframes brean1
+    {
+        0%{left: 0%; bottom: 100%;}
+        50%{left: 50%; bottom: 0%;}
+        100%{left: 100%; bottom: 100%;}
+    }
+    @keyframes brean2
+    {
+        0%{left: 100%; bottom: 100%;}
+        50%{left: 50%; bottom: 0%;}
+        100%{left: 0%; bottom: 100%;}
+    }
+
+    #brentw {
+        position: absolute;
+        bottom: 50%;
+        left: 50%;
+        width: 420;
+        height: 420;
+        margin-left: -210px;
+        margin-bottom: -210px;
+        z-index: 10;
+        animation: brentw 10s linear 0s infinite alternate;
+        transform: scaleX(-3);
+        transform: scaleY(-2);
+    }
+    @keyframes brentw {
+        100% {transform: rotate(360deg);}
+    }
+</style>
+
+<body>
+    <audio preload="auto" autoplay="autoplay" loop="loop">
+        <source src="the-hampsterdance-song.mp3" type="audio/mp3">
+    </audio>
+    
+    <div class="brean" id="brean1"><a href="../sorry"><img src="brean.png"/></a></div>
+    <div class="brean" id="brean2"><img src="brean.png"/></div>
+    <img id ="brentw" src="brentw.png"/>
+    <img id ="empty" src="empty.png"/>
+    <iframe width=100% height=100% src="https://www.youtube.com/embed/6n3pFFPSlW4?autoplay=1&loop=1&controls=0&showinfo=0&modestbranding=1&list=PL2hM1yoeNftu9S5LZnrFmIt6M2elrTkzq" frameborder="0" allowfullscreen></iframe>
+</body>

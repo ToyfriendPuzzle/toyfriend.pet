@@ -1,0 +1,82 @@
+<link rel="shortcut icon" href="/catcar.gif">
+<title>do it again</title>
+
+<style>
+    html {overflow:hidden;}
+    body {  
+        cursor: url('cursor.gif'), default;
+        background: #000000 url('powerups.gif');
+	}
+    
+    a {  
+        cursor: url('cursor2.gif'), auto;
+    }
+ 	
+	#bg_glass {
+		position: absolute;
+		left: 0%;
+		bottom: 0%;
+		width: 100%;
+		height: 100%;
+		z-index: 1;
+	}
+	   
+    #race {
+        position: absolute;
+        left: 50%;
+        bottom: 50%;
+        width: 960;
+        height: 720;
+        margin-left: -480px;
+        margin-bottom: -360px;
+        z-index: 10;
+    }
+    
+    #spinout {
+        position: absolute;
+        left: 0%;
+        bottom: 100%;
+        width: 500;
+        height: 378;
+        margin-bottom: -378px;
+		z-index: 2
+    }
+    
+    #rainbow_road {
+        position: absolute;
+        left: 100%;
+        bottom: 100%;
+        width: 500;
+        height: 368;
+        margin-bottom: -368px;
+        margin-left: -500px;
+    }
+    
+    #reverse {
+        position: absolute;
+        bottom: 0%;
+        width: 500;
+        height: 270;
+        margin-bottom: 135px;
+        margin-left: -250;
+        z-index: 11;
+        animation: reverse1 10s linear 0s infinite alternate;
+    }
+    @keyframes reverse1
+    {
+        0% {left: 0%;}
+        100% {left: 100%;}
+    }
+</style>
+
+<body>
+    <audio preload="auto" autoplay="autoplay" loop="loop">
+        <source src="the_chemical_brothers-do_it_again.mp3" type="audio/mp3">
+    </audio>
+
+    <img id="race" src="race.gif"/>
+    <a href="../mushimushi"><img id="spinout" src="spinout.gif"/></a>
+    <img id="rainbow_road" src="rainbow_road.gif"/>
+    <div id="reverse"><img src="reverse.gif"/></div>
+	<img id="bg_glass" src="glass.png"/>
+</body>

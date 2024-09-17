@@ -1,0 +1,139 @@
+<link rel="shortcut icon" href="/catcar.gif">
+<title>Ｄ　ａ　ｎ　ｋ</title>
+
+<style>
+    html {overflow:hidden;}
+    body {  
+        cursor: url('cursor.gif'), default;
+        background: #000000 url('wave_of_the_future.jpg') no-repeat center top;
+	}
+    
+    a {  
+        cursor: url('cursor2.gif'), auto;
+    }
+
+	#bg_glass {
+		position: absolute;
+		left: 0%;
+		bottom: 0%;
+		width: 100%;
+		height: 100%;
+		z-index: 1;
+	}
+    
+    #yung_lean {
+        position: absolute;
+        bottom: 0%;
+        left: 50%;
+        width: 340;
+        height: 400;
+        margin-left: -160px;
+        z-index: 10;
+    }
+    
+    div.n64 {
+        position: absolute;
+        width: 301;
+        height: 240;
+        z-index: 20;
+        animation: n64 25s linear 0s infinite;
+    }
+    #n64 {
+        left: 0%;
+        transform: scaleX(-1);
+    }
+    #n642 {
+        margin-left: -150px;
+        left: 100%;
+    }
+    @keyframes n64
+    {
+        0% {bottom: 0%;}
+        100% {bottom: 100%;}
+    }
+    
+    div.purple_sip {
+        position: absolute;
+        width: 138;
+        height: 240;
+        z-index: 10;
+        animation: purple_sip 20s linear 0s infinite alternate;
+    }
+    #purple_sip {
+        left: 45%;
+    }
+    #purple_sip2 {
+        left: 55%;
+        margin-left: -69px;
+        transform: scaleX(-1);
+    }
+    @keyframes purple_sip {
+        0% {bottom: 100%}
+        100% {bottom: 0%}
+    }
+    
+    div.dolphin {
+        position: absolute;
+        bottom: 70%;
+        width: 347;
+        height: 240;
+		z-index: 11;
+    }
+    #dolphin {
+        animation: dolphin 10s linear 0s infinite;
+    }
+    #dolphin2 {
+        transform: scaleX(-1);
+        animation: dolphin2 10s linear 0s infinite;
+        margin-left: -260;
+    }
+    @keyframes dolphin {
+        0% {left: 100%;}
+        100% {left: 50%;}
+    }
+    @keyframes dolphin2 {
+        0% {left: 0;}
+        100% {left: 50%;}
+    }
+    
+    div.madoka {
+        position: absolute;
+        width: 524;
+        height: 720;
+        margin-left: -272px;
+		z-index: 9;
+    }
+    #madoka1 {
+        bottom: 10%;
+        left: 25%;
+        animation: madoka1 5s linear 0s infinite;
+    }
+    #madoka2 {
+        bottom: 10%;
+        left: 75%;
+        animation: madoka2 5s linear 0s infinite;
+    }
+    @keyframes madoka1 {
+        100% {transform: rotate(360deg);}
+    }
+    @keyframes madoka2 {
+        100% {transform: rotate(-360deg);}
+    }
+</style>
+
+<body>
+    <audio preload="auto" autoplay="autoplay" loop="loop">
+        <source src="yung_lean-yoshi_city.mp3" type="audio/mp3">
+    </audio>
+
+    <div class="madoka" id="madoka1"><a href="./dance"><img src="dankmadoka_small.png"/></a></div>
+    <div class="madoka" id="madoka2"><img src="dankmadoka_small2.png"/></div>
+    <a href="../flicker"><img id ="yung_lean" src="yung_lean_dance.gif"/></a>
+    <div class="n64" id="n64"><img src="n64_controller.png"/></div>
+    <div class="n64" id="n642"><a href="../race"><img id="n642" src="n64_controller.png"/></a></div>
+    <div class="purple_sip" id="purple_sip"><img src="purple_sip.png"/></div>
+    <div class="purple_sip" id="purple_sip2"><img src="purple_sip.png"/></div>
+    <div class="dolphin" id="dolphin"><img src="dolphin.png"/></div>
+    <div class="dolphin" id="dolphin2"><img src="dolphin.png"/></div>
+	<img id="bg_glass" src="glass.png">
+</body>

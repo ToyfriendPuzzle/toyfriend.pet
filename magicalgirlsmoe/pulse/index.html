@@ -1,0 +1,57 @@
+<link rel="shortcut icon" href="/catcar.gif">
+<title>pulse demons</title>
+
+<style>
+    html {overflow:hidden;}
+    body {  
+        cursor: url('cursor.gif'), default;
+        background: #000000 url('mandala_animated.gif');
+	}
+    
+    a {  
+        cursor: url('cursor2.gif'), auto;
+    }
+	
+	#bg_glass {
+		position: absolute;
+		left: 0%;
+		bottom: 0%;
+		width: 100%;
+		height: 100%;
+		z-index: 1;
+	}
+	
+	#eye {
+	    position: absolute;
+        left: 36%;
+        bottom: 50%;
+        width: 25%;
+        height: 45%;
+        z-index: 5;
+	}
+	
+    #thing {
+        position: absolute;
+        left: 0%;
+		bottom: 0%;
+        width: 5%;
+        height: 9%;
+		z-index: 2;
+        animation: thing 10s linear 0s infinite alternate;
+    }
+    @keyframes thing
+    {
+        0% {left: 0%;}
+        100% {left: 95%;}
+    }
+</style>
+
+<body>
+    <audio preload="auto" autoplay="autoplay" loop="loop">
+        <source src="boards_of_canada-you_could_feel_the_sky.mp3" type="audio/mp3">
+    </audio>
+
+	<img id="thing" src="thing_transparent.png"/>
+	<a href="../wail"><img id="eye" src="eyeball_transparent.png"></a>
+	<img id="bg_glass" src="glass.png"/>
+</body>

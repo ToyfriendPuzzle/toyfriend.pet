@@ -1,0 +1,44 @@
+<link rel="shortcut icon" href="/catcar.gif">
+<title>h̵̡̢̓a̐̒͂͌̔͟͝͝l͌͘l͌̊̊u͗̚c͌̎̾́i̢͌̉nͩ̌̇ͪ͒̿̿͏͏a̍ͣ̏t̸͂̈ͦ̐͐͜͢i͊ͨͣͪ͡ǫ̛̿̔̈n͛ͥͭ̒̊̏̉̓</title>
+
+<style>
+    html {overflow:hidden;}
+    body {  
+        cursor: url('cursor.gif'), default;
+        background: #000000;
+	}
+    a {  
+        cursor: url('cursor2.gif'), auto;
+    }
+    
+    #hallucination {
+        position: absolute;
+        left: 0%;
+        bottom: -10%;
+        width: 100%;
+        height: 120%;
+        z-index: 3;
+    }
+
+    #glass {
+        position: absolute;
+        left: 31.25%;
+        bottom: 8.75%;
+        width: 37.5%;
+        height: 50%;
+        z-index: 5;
+    }
+</style>
+
+<body>
+    <audio id="clark" preload="auto" autoplay="autoplay" loop="loop" volume=0.1>
+        <source src="clark_vengeance_drools.mp3" type="audio/mp3">
+    </audio>
+    
+    <img id="hallucination" src="hallucination_by_clayrodery.gif"/>
+    <a href="../"><img id="glass" src="glass.png"/></a>
+    <script>
+        var audio = document.getElementById("clark");
+        audio.volume = 0.2;
+    </script>
+</body>

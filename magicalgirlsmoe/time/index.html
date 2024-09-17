@@ -1,0 +1,41 @@
+<link rel="shortcut icon" href="/catcar.gif">
+<title>there will be time</title>
+
+<style>
+    html {overflow:hidden;}
+    body {  
+        cursor: url('cursor.gif'), default;
+        background: #000000 url("static.gif");
+	}
+    
+    a {  
+        cursor: url('cursor2.gif'), auto;
+    }
+	
+	#bg_glass {
+		position: absolute;
+		left: 0%;
+		bottom: 0%;
+		width: 100%;
+		height: 100%;
+		z-index: 1;
+	}
+	    
+    #homu {
+        position: absolute;
+        left: 50%;
+        width: 506px;
+        height: 712px;
+        margin-left: -253px;
+		z-index: 2;
+    }
+</style>
+
+<body>
+    <audio preload="auto" autoplay="autoplay" loop="loop">
+        <source src="eleven_tigers-there_will_be_time.mp3" type="audio/mp3">
+    </audio>
+
+    <a href="../forest"><img id="homu" src="homuhomu.gif"/></a>
+	<a href="../anomoly"><img id="bg_glass" src="glass.png"/></a>
+</body>
