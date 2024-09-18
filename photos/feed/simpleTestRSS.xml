@@ -4,7 +4,7 @@
     <title>
       <![CDATA[ninestestblogTWO]]>
     </title>
-    <atom:link href="https://toyfriend.pet/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://toyfriend.pet/photos/feed/simpleTestRSS.xml" rel="self" type="application/rss+xml"/>
     <link>
       <![CDATA[https://toyfriend.pet]]>
     </link>
