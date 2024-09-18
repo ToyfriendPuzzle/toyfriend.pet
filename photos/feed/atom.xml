@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title>toyfriend photos</title>
+	<link href="https://toyfriend.org/photos/feed"/>
+	<updated>2024-09-18T19:00:00Z</updated>
+	<author>
+		<name>Nines Puzzle</name>
+		<email>squeak@toyfriend.pet</email>
+	</author>
+	<id>https://toyfriend.pet/</id>
+	
+	<entry>
+		<title>A Test of the Atom Feed</title>
+		<link href="https://toyfriend.pet/photos/feed#test"/>
+		<id>https://toyfriend.pet/photos/feed#test</id>
+		<updated>2024-09-18T19:00:00Z</updated>
+		<summary>It all started with some text...</summary>
+		<content type="html">&#x3C;div style=&#x22;width:100%;max-height:640px;background:rgba(255,255,255,1);border:4pxridge rgba(0, 0, 0, 1);display:flex;flex-wrap:wrap;&#x22;&#x3E;
+&#x3C;img src=&#x22;https://staging.cohostcdn.org/attachment/3a5b8dcc-8b7d-4fba-9411-8577017e0db0/P1152327_DT_edit.jpg&#x22; style=&#x22;max-height:100%;max-width:100%;loading:lazy;flex-shrink:2;&#x22;/&#x3E;
+&#x3C;p style=&#x22;width:100%;font-size:1em;color:rgba(16, 16, 16, 1);padding: 0px 4px;order:2;text-align:center;&#x22;&#x3E;
+TESTIMAGEDESCRIPTION
+&#x3C;/p&#x3E;
+&#x3C;/div&#x3E;</content>
+	</entry>
+	
+</feed>
