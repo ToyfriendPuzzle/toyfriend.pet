@@ -13,6 +13,23 @@
     </description>
     <item>
       <title>
+        <![CDATA[testpost3 toast3]]>
+      </title>
+      <pubDate>
+        <![CDATA[Wed, 18 Sep 2024 22:01:00 GMT]]>
+      </pubDate>
+      <description>
+        <![CDATA[<iframe id="testbouba" title="testbouba" src="https://toyfriend.pet/photos/feed/post/test.html" style="border:none; width:100%; height:640px; overflow:hidden;"></iframe>]]>
+      </description>
+      <author>
+        <![CDATA[squeak@toyfriend.pet]]>
+      </author>
+      <guid isPermaLink="false">
+        <![CDATA[942865f2-684c-44dd-beac-0217b7425dde]]>
+      </guid>
+    </item>
+    <item>
+      <title>
         <![CDATA[test2]]>
       </title>
       <pubDate>
