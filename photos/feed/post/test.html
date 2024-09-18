@@ -1,1 +1,40 @@
-<img src="https://staging.cohostcdn.org/attachment/3a5b8dcc-8b7d-4fba-9411-8577017e0db0/P1152327_DT_edit.jpg"/>
+<!DOCTYPE html>
+<style>
+	* {
+		padding: 0;
+		margin: 0;
+		box-sizing:border-box;
+		text-align:center;
+		justify-content:center;
+	}
+	img {
+		max-height:100%;
+		max-width:100%;
+		loading:lazy;
+		flex-shrink:2;
+	}
+	.photoframe {
+		width:100%;
+		max-height:640px;
+		background: rgba(255,255,255,1); 
+		border: 4px ridge rgba(0, 0, 0, 1);
+		display:flex; 
+		flex-wrap: wrap;
+	}
+	.description {
+		width:100%;
+		font-size:1em;
+		color:rgba(16, 16, 16, 1);
+		padding: 0px 4px;
+		order:2;
+		text-align:center;
+	}
+</style>
+<body>
+	<div class="photoframe">
+		<img src="https://staging.cohostcdn.org/attachment/3a5b8dcc-8b7d-4fba-9411-8577017e0db0/P1152327_DT_edit.jpg"/>
+		<p class="description">
+			TESTIMAGEDESCRIPTION
+		</p>
+	</div>
+</body>
