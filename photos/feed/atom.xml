@@ -3,7 +3,7 @@
 
 	<title>toyfriend photos</title>
 	<link href="https://toyfriend.org/photos/feed"/>
-	<updated>2024-09-18T19:00:00Z</updated>
+	<updated>2024-09-19T12:25:00-05:00</updated>
 	<author>
 		<name>Nines Puzzle</name>
 		<email>squeak@toyfriend.pet</email>
@@ -11,15 +11,15 @@
 	<id>https://toyfriend.pet/</id>
 	
 	<entry>
-		<title>A Test of the Atom Feed</title>
-		<link href="https://toyfriend.pet/photos/feed#test"/>
-		<id>https://toyfriend.pet/photos/feed#test</id>
-		<updated>2024-09-18T19:00:00Z</updated>
-		<summary>It all started with some text...</summary>
+		<title>Hot Licks</title>
+		<link href="https://toyfriend.pet/photos/feed#20240919"/>
+		<id>https://toyfriend.pet/photos/feed#20240919</id>
+		<updated>2024-09-19T12:25:00-05:00</updated>
+		<summary>A photograph of a sign that reads 'Hot Licks Guitar Shop' with an image of a faded guitar. Underneath is a sign that reads 'FOR LEASE'. In the background is the Waldorf Volunteer Fire Department.</summary>
 		<content type="html">
-			<img src="https://staging.cohostcdn.org/attachment/3a5b8dcc-8b7d-4fba-9411-8577017e0db0/P1152327_DT_edit.jpg"/>
+			<img src="/files/photos/DSC_5585_DT_edit_03.jpg" alt="A photograph of a sign that reads 'Hot Licks Guitar Shop' with an image of a faded guitar. Underneath is a sign that reads 'FOR LEASE'. In the background is the Waldorf Volunteer Fire Department."/>
 			<p>
-				This is a test Bouba. Behold!
+				NIKON DF | NIKKOR-NC 28MM F2 | FX | 100 ISO | F8 | 1/500 | 2:3
 			</p>
 		</content>
 	</entry>
