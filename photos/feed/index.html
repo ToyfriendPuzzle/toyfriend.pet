@@ -6,12 +6,51 @@
 	<link rel="stylesheet" href="../../folder.css">
 </head>
 <style>
-	iframe {
-		border: none;
-		width: 100%;
-		height:640px;
-		overflow:hidden;
+	:root{
+		--lightBg:rgba(255,255,255,1);
+		--darkTxt:rgba(16,16,16,1);
+		--darkBg:rgba(0,0,0,1);
+		--lightTxt:rgba(240,240,240,1);
+	}
+	*{
+		padding:0;
+		margin:0;
+		text-align:center;
+		justify-content:center;
+	}
+	img{
+		max-height:100%;
+		max-width:100%;
 		loading:lazy;
+		flex-shrink:2;
+		order:2;
+	}
+	.light{
+		background:var(--lightBg);
+		color:var(--darkTxt);
+	}
+	.dark{
+		background:var(--darkBg);
+		color:var(--lightTxt);
+	}
+	.photoframe{
+		width:100%;
+		background:var(--bgColor); 
+		border:4px ridge rgba(0,0,0,1);
+		display:flex; 
+		flex-wrap: wrap;
+	}
+	.description{
+		width:100%;
+		color:var(--txtColor);
+		order:3;
+		padding:4px 0px;
+	}
+	.timestamp{
+		width:100%;
+		color:var(--txtColor);
+		order:1;
+		text-align:left;
 	}
 </style>
 <body>
@@ -23,12 +62,25 @@
 		</p>
 	</div>
 	<div class="folder" style="height:auto; flex-wrap:wrap;">
-		<iframe id="test" title="test" src="./post/test.html">
-		</iframe>
-		<iframe id="20240918" src="./post/20240918.html">
-		</iframe>
-		<br>
-		<iframe id="20240917" src="./post/20240917.html">
-		</iframe>
+		<div class="photoframe dark">
+			<p class="timestamp dark">
+				<a class="dark" href="#20240918">20240918</a>
+			</p>
+			<img src="https://staging.cohostcdn.org/attachment/b5d72736-9c96-464c-8f50-0229eafd7e70/DSC_5697_DT_edit_03.jpg" alt="A photograph of boardwalk trail passing over a marsh. The foreground is under the canopy of the trees, and the path leads to a clearing in the background."/>
+			<p class="description dark">
+				NIKON DF | NIKKOR-NC 28MM F2 | FX | 250 ISO | F5.6 | 1/30 | 3:2
+			</p>
+		</div>
+<!------------------------------------------------------------------------------------------>
+		<div class="photoframe light">
+			<p class="timestamp light">
+				<a class="light" href="#20240917">20240917</a>
+			</p>
+			<img src="https://staging.cohostcdn.org/attachment/d02f11a9-cc12-4794-9532-89aa5cf6a384/DSC_5608_DT_edit_01.jpg" alt="A photograph of a smokestack? cooling tower? shrouded in steam against a blue sky."/>
+			<p class="description light">
+				NIKON DF | NIKKOR-S 50MM F1.4 | FX | 125 ISO | F8 | 1/1000 | 2:3
+			</p>
+		</div>
+<!------------------------------------------------------------------------------------------>
 	</div>
 </body>
