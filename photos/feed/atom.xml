@@ -3,19 +3,33 @@
 
 	<title>toyfriend photos</title>
 	<link href="https://toyfriend.org/photos/feed"/>
-	<updated>2024-09-20T10:13:00-05:00</updated>
+	<updated>2024-09-21T10:11:57-05:00</updated>
 	<author>
 		<name>Nines Puzzle</name>
 		<email>squeak@toyfriend.pet</email>
 	</author>
 	<id>https://toyfriend.pet/photos/feed</id>
 
+		<entry>
+		<title>Perverse Bokeh</title>
+		<link href="https://toyfriend.pet/photos/feed#20240920"/>
+		<id>https://toyfriend.pet/photos/feed#20240921</id>
+		<updated>2024-09-21T11:57:00-05:00</updated>
+		<summary>A photograph of a purple leaf resting on a plant.</summary>
+		<content type="html">
+			<img src="/files/photos/DSC_5806_DT_edit.jpg" alt="A photograph of a purple leaf resting on a plant."/>
+			<p>
+				NIKON DF | NIKKOR-NC 28MM F2 | FX | 100 ISO | F2 | 1/250 | 2:3
+			</p>
+		</content>
+	</entry>
+
 	<entry>
 		<title>SORRY PUMP OUT OF ORDER</title>
 		<link href="https://toyfriend.pet/photos/feed#20240920"/>
 		<id>https://toyfriend.pet/photos/feed#20240920</id>
 		<updated>2024-09-20T10:13:00-05:00</updated>
-		<summary>A nighttime photograph of out of order gas pumps sitting in an overgrown parking lot."</summary>
+		<summary>A nighttime photograph of out of order gas pumps sitting in an overgrown parking lot.</summary>
 		<content type="html">
 			<img src="/files/photos/DSC_5447_DT_edit_01.jpg" alt="A nighttime photograph of out of order gas pumps sitting in an overgrown parking lot."/>
 			<p>
