@@ -3,12 +3,40 @@
 
 	<title>toyfriend photos</title>
 	<link href="https://toyfriend.org/photos/feed"/>
-	<updated>2024-09-22T14:54:00-05:00</updated>
+	<updated>2024-09-24T14:16:00-05:00</updated>
 	<author>
 		<name>Nines Puzzle</name>
 		<email>squeak@toyfriend.pet</email>
 	</author>
 	<id>https://toyfriend.pet/photos/feed</id>
+
+		<entry>
+			<title>Clouds and Lines</title>
+			<link href="https://toyfriend.pet/photos/feed#20240924"/>
+			<id>https://toyfriend.pet/photos/feed#20240924</id>
+			<updated>2024-09-24T14:16:00-05:00</updated>
+			<summary>A photograph of transmission towers running over a serpentine barren.</summary>
+			<content type="html">
+				<img src="/files/photos/DSC_5838_DT_edit.jpg" alt="A photograph of transmission towers running over a serpentine barren."/>
+				<p>
+					NIKON DF | TAMRON 80-210MM F3.8 | FX | 100 ISO | F8 | 1/250 | 2:3
+				</p>
+			</content>
+		</entry>
+
+		<entry>
+			<title>Path</title>
+			<link href="https://toyfriend.pet/photos/feed#20240923"/>
+			<id>https://toyfriend.pet/photos/feed#20240923</id>
+			<updated>2024-09-23T12:00:00-05:00</updated>
+			<summary>A photograph of a trail in the woods leading to an open field. Afternoon light shines in spots between the trees.</summary>
+			<content type="html">
+				<img src="/files/photos/DSC_5860_DT_edit.jpg" alt="A photograph of a trail in the woods leading to an open field. Afternoon light shines in spots between the trees."/>
+				<p>
+					NIKON DF | NIKKOR-S 50MM F1.4 | FX | 100 ISO | F5.6 | 1/200 | 2:3
+				</p>
+			</content>
+		</entry>
 
 		<entry>
 			<title>Rust and Chrome</title>
@@ -17,7 +45,7 @@
 			<updated>2024-09-22T14:54:00-05:00</updated>
 			<summary>A photograph of a very old car wreck in the woods. The metal is deeply rusted, but the chrome shines brightly.</summary>
 			<content type="html">
-				<img src="/files/photos/DSC_5824_DT_edit.jpg" alt="A photograph of a very old car wreck in the woods. The metal is deeply rusted, but the chrome shines brightly."/>
+				<img src="/files/photos/DSC_5824_DT_edit_02.jpg" alt="A photograph of a very old car wreck in the woods. The metal is deeply rusted, but the chrome shines brightly."/>
 				<p>
 					NIKON DF | NIKKOR-NC 28MM F2 | FX | 100 ISO | F5.6 | 1/125 | 3:2
 				</p>
