@@ -3,12 +3,28 @@
 
 	<title>toyfriend photos</title>
 	<link href="https://toyfriend.org/photos/feed"/>
-	<updated>2024-09-24T14:16:00-05:00</updated>
+	<updated>2024-09-24T15:28:00-05:00</updated>
 	<author>
 		<name>Nines Puzzle</name>
 		<email>squeak@toyfriend.pet</email>
 	</author>
 	<id>https://toyfriend.pet/photos/feed</id>
+
+		<entry>
+			<title>Strip Mall Haunting</title>
+			<link href="https://toyfriend.pet/photos/feed#20240925"/>
+			<id>https://toyfriend.pet/photos/feed#20240925</id>
+			<updated>2024-09-25T15:28:00-05:00</updated>
+			<summary>A photograph of a stop sign with the nutrition sticker from a juice bottle stuck to the 'T'. and A photograph of colorful shipping pallets and black milk crates stacked up by a shipping truck.</summary>
+			<content type="html">
+				<img src="/files/photos/DSC_5878_DT_edit_03.jpg" alt="A photograph of a stop sign with the nutrition sticker from a juice bottle stuck to the 'T'."/>
+				<br/>
+				<img src="/files/photos/DSC_5877_DT_edit_02.jpg" alt="A photograph of colorful shipping pallets and black milk crates stacked up by a shipping truck."/>
+				<p>
+					NIKON DF | NIKKOR-S 50MM F1.4 | FX | 100 ISO
+				</p>
+			</content>
+		</entry>
 
 		<entry>
 			<title>Clouds and Lines</title>
