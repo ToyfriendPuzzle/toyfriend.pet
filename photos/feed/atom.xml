@@ -3,12 +3,28 @@
 
 	<title>toyfriend photos</title>
 	<link href="https://toyfriend.org/photos/feed"/>
-	<updated>2024-09-24T15:28:00-05:00</updated>
+	<updated>2024-09-26T18:08:00-05:00</updated>
 	<author>
 		<name>Nines Puzzle</name>
 		<email>squeak@toyfriend.pet</email>
 	</author>
 	<id>https://toyfriend.pet/photos/feed</id>
+
+		<entry>
+			<title>Empty Lot America</title>
+			<link href="https://toyfriend.pet/photos/feed#20240925"/>
+			<id>https://toyfriend.pet/photos/feed#20240925</id>
+			<updated>2024-09-26T18:08:00-05:00</updated>
+			<summary>A photograph of an empty, fenced-off asphalt lot. The fence is rusted and covered in barbed wire, a sign reads 'BEWARE OF DOGS', but there have clearly not been dogs here in many years. and A flash photograph of a rusty chain and lock, wrapped into a metal fence as a patch for a hole.</summary>
+			<content type="html">
+				<img src="/files/photos/P1000889_DT_edit.jpg" alt="A photograph of an empty, fenced-off asphalt lot. The fence is rusted and covered in barbed wire, a sign reads 'BEWARE OF DOGS', but there have clearly not been dogs here in many years."/>
+				<br/>
+				<img src="/files/photos/P1000891_DT_edit_02.jpg" alt="A flash photograph of a rusty chain and lock, wrapped into a metal fence as a patch for a hole."/>
+				<p>
+					March 15, 2024. Lumix LX3
+				</p>
+			</content>
+		</entry>
 
 		<entry>
 			<title>Strip Mall Haunting</title>
