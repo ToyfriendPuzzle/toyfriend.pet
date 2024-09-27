@@ -3,7 +3,7 @@
 
 	<title>toyfriend photos</title>
 	<link href="https://toyfriend.org/photos/feed"/>
-	<updated>2024-09-26T18:08:00-05:00</updated>
+	<updated>2024-09-27T15:21:00-05:00</updated>
 	<author>
 		<name>Nines Puzzle</name>
 		<email>squeak@toyfriend.pet</email>
@@ -11,9 +11,24 @@
 	<id>https://toyfriend.pet/photos/feed</id>
 
 		<entry>
+			<title>Long Long Flower</title>
+			<link href="https://toyfriend.pet/photos/feed#20240927"/>
+			<id>https://toyfriend.pet/photos/feed#20240927</id>
+			<updated>2024-09-27T15:21:00-05:00</updated>
+			<summary>A macro photograph of a yellow flower.</summary>
+			<content type="html">
+				<img src="/files/photos/DSC_5715_DT_edit_02.jpg" alt="A macro photograph of a yellow flower."/>
+				<br/>
+				<p>
+					NIKON DF | TAMRON 80-210MM F3.8 | FX | 500 ISO | F4 | 1/250 | 1:3
+				</p>
+			</content>
+		</entry>
+
+		<entry>
 			<title>Empty Lot America</title>
-			<link href="https://toyfriend.pet/photos/feed#20240925"/>
-			<id>https://toyfriend.pet/photos/feed#20240925</id>
+			<link href="https://toyfriend.pet/photos/feed#20240926"/>
+			<id>https://toyfriend.pet/photos/feed#20240926</id>
 			<updated>2024-09-26T18:08:00-05:00</updated>
 			<summary>A photograph of an empty, fenced-off asphalt lot. The fence is rusted and covered in barbed wire, a sign reads 'BEWARE OF DOGS', but there have clearly not been dogs here in many years. and A flash photograph of a rusty chain and lock, wrapped into a metal fence as a patch for a hole.</summary>
 			<content type="html">
