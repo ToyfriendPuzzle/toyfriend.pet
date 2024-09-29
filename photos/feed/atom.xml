@@ -3,12 +3,27 @@
 
 	<title>toyfriend photos</title>
 	<link href="https://toyfriend.org/photos/feed"/>
-	<updated>2024-09-27T15:21:00-05:00</updated>
+	<updated>2024-09-28T18:48:00-05:00</updated>
 	<author>
 		<name>Nines Puzzle</name>
 		<email>squeak@toyfriend.pet</email>
 	</author>
 	<id>https://toyfriend.pet/photos/feed</id>
+
+		<entry>
+			<title>Path Yonder</title>
+			<link href="https://toyfriend.pet/photos/feed#20240928"/>
+			<id>https://toyfriend.pet/photos/feed#20240928</id>
+			<updated>2024-09-28T18:48:00-05:00</updated>
+			<summary>A photograph of a boardwalk over a marsh stretching off into the distance on a dark, cloudy day.</summary>
+			<content type="html">
+				<img src="/files/photos/DSC_5702_DT_edit.jpg" alt="A photograph of a boardwalk over a marsh stretching off into the distance on a dark, cloudy day."/>
+				<br/>
+				<p>
+					NIKON DF | NIKKOR-NC 28MM F2 | FX | 280 ISO | F8 | 1/125 | 2:3
+				</p>
+			</content>
+		</entry>
 
 		<entry>
 			<title>Long Long Flower</title>
