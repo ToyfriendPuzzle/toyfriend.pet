@@ -3,12 +3,27 @@
 
 	<title>toyfriend photos</title>
 	<link href="https://toyfriend.org/photos/feed"/>
-	<updated>2024-09-30T14:16:00-05:00</updated>
+	<updated>2024-10-01T22:50:00-05:00</updated>
 	<author>
 		<name>Nines Puzzle</name>
 		<email>squeak@toyfriend.pet</email>
 	</author>
 	<id>https://toyfriend.pet/photos/feed</id>
+
+		<entry>
+			<title>Violence!</title>
+			<link href="https://toyfriend.pet/photos/feed#20241001"/>
+			<id>https://toyfriend.pet/photos/feed#20241001</id>
+			<updated>2024-10-01T22:50:00-05:00</updated>
+			<summary>A flash photograph of a gap between couch cushions, where two small, white paws poke through.</summary>
+			<content type="html">
+&#x9;&#x9;&#x9;&#x9;&#x3C;img src=&#x22;https://toyfriend.pet/files/photos/P1000985_DT_edit_01.jpg&#x22; alt=&#x22;A flash photograph of a first-person view of striking a figure with a flail outside at night.&#x22;/&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x3C;br/&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x3C;p&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x9;LUMIX LX3 | 1/1.63&#x22; | 100 ISO | F2 | 1/125 | FLASH | 9:16
+&#x9;&#x9;&#x9;&#x9;&#x3C;/p&#x3E;
+			</content>
+		</entry>
 
 		<entry>
 			<title>Goodbye, Cohost</title>
@@ -17,11 +32,11 @@
 			<updated>2024-09-30T14:16:00-05:00</updated>
 			<summary>A flash photograph of a gap between couch cushions, where two small, white paws poke through.</summary>
 			<content type="html">
-				<img src="https://toyfriend.pet/files/photos/P1000951_DT_edit_01.jpg" alt="A flash photograph of a gap between couch cushions, where two small, white paws poke through."/>
-				<br/>
-				<p>
-					NIKON DF | NIKKOR-NC 28MM F2 | FX | 100 ISO | F2.8 | 1/60 | 2:3
-				</p>
+&#x9;&#x9;&#x9;&#x9;&#x3C;img src=&#x22;https://toyfriend.pet/files/photos/P1000951_DT_edit_01.jpg&#x22; alt=&#x22;A flash photograph of a gap between couch cushions, where two small, white paws poke through.&#x22;/&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x3C;br/&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x3C;p&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x9;NIKON DF | NIKKOR-NC 28MM F2 | FX | 100 ISO | F2.8 | 1/60 | 2:3
+&#x9;&#x9;&#x9;&#x9;&#x3C;/p&#x3E;
 			</content>
 		</entry>
 
