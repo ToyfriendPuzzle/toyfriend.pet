@@ -11,6 +11,21 @@
 	<id>https://toyfriend.pet/photos/feed</id>
 
 		<entry>
+			<title>Crowded</title>
+			<link href="https://toyfriend.pet/photos/feed#20241003"/>
+			<id>https://toyfriend.pet/photos/feed#20241003</id>
+			<updated>2024-10-03T19:05:00-05:00</updated>
+			<summary>A flash photograph of an illuminated sign reading '7ELEVEN LIQUOR', the top of a tree, and an electric pole.</summary>
+			<content type="html">
+&#x9;&#x9;&#x9;&#x9;&#x3C;img src=&#x22;https://toyfriend.pet/files/photos/P1000991_DT_edit.jpg.jpg&#x22; alt=&#x22;A flash photograph of an illuminated sign reading &#x27;7ELEVEN LIQUOR&#x27;, the top of a tree, and an electric pole.&#x22;/&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x3C;br/&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x3C;p&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x9;LUMIX LX3 | 1/1.63&#x22; | 100 ISO | F2 | 1/30 | FLASH | 9:16
+&#x9;&#x9;&#x9;&#x9;&#x3C;/p&#x3E;
+			</content>
+		</entry>
+
+		<entry>
 			<title>Violence!</title>
 			<link href="https://toyfriend.pet/photos/feed#20241001"/>
 			<id>https://toyfriend.pet/photos/feed#20241001</id>
