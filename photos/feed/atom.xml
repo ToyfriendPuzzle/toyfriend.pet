@@ -11,6 +11,21 @@
 	<id>https://toyfriend.pet/photos/feed</id>
 
 		<entry>
+			<title>Triplets</title>
+			<link href="https://toyfriend.pet/photos/feed#20241004"/>
+			<id>https://toyfriend.pet/photos/feed#20241004</id>
+			<updated>2024-10-04T18:44:00-05:00</updated>
+			<summary>A photograph of a white brick wall with shadows cast onto it from multiple streetlights. There are 3 shadows of a figure against many vertical bars. The cracks between the bricks have yellow paint on the left, and blue paint on the right.</summary>
+			<content type="html">
+&#x9;&#x9;&#x9;&#x9;&#x3C;img src=&#x22;https://toyfriend.pet/files/photos/P1020051_DT_edit_01.jpg&#x22; alt=&#x22;A photograph of a white brick wall with shadows cast onto it from multiple streetlights. There are 3 shadows of a figure against many vertical bars. The cracks between the bricks have yellow paint on the left, and blue paint on the right.&#x22;/&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x3C;br/&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x3C;p&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x9;LUMIX LX3 | 1/1.63&#x22; | 100 ISO | F2.6 | 1/6 | 16:9
+&#x9;&#x9;&#x9;&#x9;&#x3C;/p&#x3E;
+			</content>
+		</entry>
+
+		<entry>
 			<title>Crowded</title>
 			<link href="https://toyfriend.pet/photos/feed#20241003"/>
 			<id>https://toyfriend.pet/photos/feed#20241003</id>
