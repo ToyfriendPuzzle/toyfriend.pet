@@ -11,6 +11,22 @@
 	<id>https://toyfriend.pet/photos/feed</id>
 
 		<entry>
+			<title>Harsh</title>
+			<link href="https://toyfriend.pet/photos/feed#20241005"/>
+			<id>https://toyfriend.pet/photos/feed#20241005</id>
+			<updated>2024-10-05T20:32:00-05:00</updated>
+			<summary>A flash photograph of rusty railroad tracks on gravel at night.</summary>
+			<content type="html">
+&#x9;&#x9;&#x9;&#x9;&#x3C;img src=&#x22;https://toyfriend.pet/files/photos/P1020052_DT_edit_01.jpg&#x22; alt=&#x22;A flash photograph of rusty railroad tracks on gravel at night.&#x22;/&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x3C;br/&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x3C;p&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x9;LUMIX LX3 | 1/1.63&#x22; | 100 ISO | F2 | 1/30 | 16:9
+&#x9;&#x9;&#x9;&#x9;&#x3C;/p&#x3E;
+			</content>
+		</entry>
+
+
+		<entry>
 			<title>Triplets</title>
 			<link href="https://toyfriend.pet/photos/feed#20241004"/>
 			<id>https://toyfriend.pet/photos/feed#20241004</id>
@@ -32,7 +48,7 @@
 			<updated>2024-10-03T19:05:00-05:00</updated>
 			<summary>A flash photograph of an illuminated sign reading '7ELEVEN LIQUOR', the top of a tree, and an electric pole.</summary>
 			<content type="html">
-&#x9;&#x9;&#x9;&#x9;&#x3C;img src=&#x22;https://toyfriend.pet/files/photos/P1000991_DT_edit.jpg.jpg&#x22; alt=&#x22;A flash photograph of an illuminated sign reading &#x27;7ELEVEN LIQUOR&#x27;, the top of a tree, and an electric pole.&#x22;/&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x3C;img src=&#x22;https://toyfriend.pet/files/photos/P1000991_DT_edit.jpg&#x22; alt=&#x22;A flash photograph of an illuminated sign reading &#x27;7ELEVEN LIQUOR&#x27;, the top of a tree, and an electric pole.&#x22;/&#x3E;
 &#x9;&#x9;&#x9;&#x9;&#x3C;br/&#x3E;
 &#x9;&#x9;&#x9;&#x9;&#x3C;p&#x3E;
 &#x9;&#x9;&#x9;&#x9;&#x9;LUMIX LX3 | 1/1.63&#x22; | 100 ISO | F2 | 1/30 | FLASH | 9:16
