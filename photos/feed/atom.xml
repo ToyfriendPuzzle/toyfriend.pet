@@ -11,6 +11,21 @@
 	<id>https://toyfriend.pet/photos/feed</id>
 
 		<entry>
+			<title>BUCKLE UP</title>
+			<link href="https://toyfriend.pet/photos/feed#20241010"/>
+			<id>https://toyfriend.pet/photos/feed#20241010</id>
+			<updated>2024-10-10T19:01:00-05:00</updated>
+			<summary>A photograph of a toilet in an abandoned house. The seat is open and displays a sticker reading 'BUCKLE UP'.</summary>
+			<content type="html">
+&#x9;&#x9;&#x9;&#x9;&#x3C;img src=&#x22;https://toyfriend.pet/files/photos/P1020084_DT_edit.jpg&#x22; alt=&#x22;A photograph of a toilet in an abandoned house. The seat is open and displays a sticker reading &#x27;BUCKLE UP&#x27;.&#x22;/&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x3C;br/&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x3C;p&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x9;PENTAX Q | 1/2.3&#x22; | 02 STANDARD ZOOM | 125 ISO | F3.2 | 1/500 | 7.8MM | 4:3
+&#x9;&#x9;&#x9;&#x9;&#x3C;/p&#x3E;
+			</content>
+		</entry>
+
+		<entry>
 			<title>Cotton Candy Ruins</title>
 			<link href="https://toyfriend.pet/photos/feed#20241009"/>
 			<id>https://toyfriend.pet/photos/feed#20241009</id>
