@@ -3,12 +3,27 @@
 
 	<title>toyfriend photos</title>
 	<link href="https://toyfriend.org/photos/feed"/>
-	<updated>2024-10-09T11:21:00-05:00</updated>
+	<updated>2024-10-15T16:53:00-05:00</updated>
 	<author>
 		<name>Nines Puzzle</name>
 		<email>squeak@toyfriend.pet</email>
 	</author>
 	<id>https://toyfriend.pet/photos/feed</id>
+
+		<entry>
+			<title>Cloudfall</title>
+			<link href="https://toyfriend.pet/photos/feed#20241015"/>
+			<id>https://toyfriend.pet/photos/feed#20241015</id>
+			<updated>2024-10-15T16:53:00-05:00</updated>
+			<summary>A photograph of clouds falling out of the sky.</summary>
+			<content type="html">
+&#x9;&#x9;&#x9;&#x9;&#x3C;img src=&#x22;https://toyfriend.pet/files/photos/P1020084_DT_edit.jpg&#x22; alt=&#x22;A photograph of clouds falling out of the sky.&#x22;/&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x3C;br/&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x3C;p&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x9;PENTAX Q | 1/2.3&#x22; | 06 TELEPHOTO ZOOM | 125 ISO | F2.8 | 1/8000 | 15MM | 16:9
+&#x9;&#x9;&#x9;&#x9;&#x3C;/p&#x3E;
+			</content>
+		</entry>
 
 		<entry>
 			<title>BUCKLE UP</title>
