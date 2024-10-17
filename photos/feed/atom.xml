@@ -3,12 +3,27 @@
 
 	<title>toyfriend photos</title>
 	<link href="https://toyfriend.org/photos/feed"/>
-	<updated>2024-10-15T16:53:00-05:00</updated>
+	<updated>2024-10-17T13:27:00-05:00</updated>
 	<author>
 		<name>Nines Puzzle</name>
 		<email>squeak@toyfriend.pet</email>
 	</author>
 	<id>https://toyfriend.pet/photos/feed</id>
+
+		<entry>
+			<title>Horse</title>
+			<link href="https://toyfriend.pet/photos/feed#20241017"/>
+			<id>https://toyfriend.pet/photos/feed#20241017</id>
+			<updated>2024-10-17T13:27:00-05:00</updated>
+			<summary>A flash photograph of a horse statue against the dark side of a building. A tree trunk rises behind it, and the moon shines in the background.</summary>
+			<content type="html">
+&#x9;&#x9;&#x9;&#x9;&#x3C;img src=&#x22;https://toyfriend.pet/files/photos/IMGP6024_DT_edit.jpg&#x22; alt=&#x22;A flash photograph of a horse statue against the dark side of a building. A tree trunk rises behind it, and the moon shines in the background.&#x22;/&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x3C;br/&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x3C;p&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x9;PENTAX Q | 1/2.3&#x22; | 06 TELEPHOTO ZOOM | 125 ISO | F5 | 1/60 | 14.4MM | 3:4
+&#x9;&#x9;&#x9;&#x9;&#x3C;/p&#x3E;
+			</content>
+		</entry>
 
 		<entry>
 			<title>Cloudfall</title>
