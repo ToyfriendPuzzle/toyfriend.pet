@@ -3,12 +3,27 @@
 
 	<title>toyfriend photos</title>
 	<link href="https://toyfriend.org/photos/feed"/>
-	<updated>2024-10-19T02:30:00-05:00</updated>
+	<updated>2024-10-25T19:01:00-05:00</updated>
 	<author>
 		<name>Nines Puzzle</name>
 		<email>squeak@toyfriend.pet</email>
 	</author>
 	<id>https://toyfriend.pet/photos/feed</id>
+
+		<entry>
+			<title>Gazebo</title>
+			<link href="https://toyfriend.pet/photos/feed#20241025"/>
+			<id>https://toyfriend.pet/photos/feed#20241025</id>
+			<updated>2024-10-25T19:01:00-05:00</updated>
+			<summary>A photograph of a gazebo blocking the setting sun. Ducks fly overhead.</summary>
+			<content type="html">
+&#x9;&#x9;&#x9;&#x9;&#x3C;img src=&#x22;https://toyfriend.pet/files/photos/P1020501_DT_edit.jpg&#x22; alt=&#x22;A photograph of a gazebo blocking the setting sun. Ducks fly overhead.&#x22;/&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x3C;br/&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x3C;p&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x9;LUMIX LX3 | 1/1.63&#x22; | 100 ISO | F8 | 1/640 | 12.8MM | 9:16
+&#x9;&#x9;&#x9;&#x9;&#x3C;/p&#x3E;
+			</content>
+		</entry>
 
 		<entry>
 			<title>Sanctuary</title>
