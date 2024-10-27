@@ -3,12 +3,27 @@
 
 	<title>toyfriend photos</title>
 	<link href="https://toyfriend.org/photos/feed"/>
-	<updated>2024-10-25T19:01:00-05:00</updated>
+	<updated>2024-10-27T01:04:00-05:00</updated>
 	<author>
 		<name>Nines Puzzle</name>
 		<email>squeak@toyfriend.pet</email>
 	</author>
 	<id>https://toyfriend.pet/photos/feed</id>
+
+		<entry>
+			<title>False Darkness</title>
+			<link href="https://toyfriend.pet/photos/feed#20241025"/>
+			<id>https://toyfriend.pet/photos/feed#20241025</id>
+			<updated>2024-10-27T01:04:00-05:00</updated>
+			<summary>A photograph of tree trunks in a vast darkness. An orb of light sits between them.</summary>
+			<content type="html">
+&#x9;&#x9;&#x9;&#x9;&#x3C;img src=&#x22;https://toyfriend.pet/files/photos/P1020520_DT_edit.jpg&#x22; alt=&#x22;A photograph of tree trunks in a vast darkness. An orb of light sits between them.&#x22;/&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x3C;br/&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x3C;p&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x9;LUMIX LX3 | 1/1.63&#x22; | 100 ISO | F2.8 | 1/60 | 12.8MM | FLASH | 9:16
+&#x9;&#x9;&#x9;&#x9;&#x3C;/p&#x3E;
+			</content>
+		</entry>
 
 		<entry>
 			<title>Gazebo</title>
