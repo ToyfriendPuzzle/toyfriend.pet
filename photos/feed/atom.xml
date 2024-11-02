@@ -11,13 +11,28 @@
 	<id>https://toyfriend.pet/photos/feed</id>
 	
 		<entry>
+			<title>Autumn Chaos</title>
+			<link href="https://toyfriend.pet/photos/feed#20241102"/>
+			<id>https://toyfriend.pet/photos/feed#20241102</id>
+			<updated>2024-11-02T18:33:00-05:00</updated>
+			<summary>A black&white photo of a leafless tree with many twisting branches.</summary>
+			<content type="html">
+&#x9;&#x9;&#x9;&#x9;&#x3C;img src=&#x22;https://toyfriend.pet/files/photos/P1020520_DT_edit.jpg&#x22; alt=&#x22;A black&#x26;white photo of a leafless tree with many twisting branches.&#x22;/&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x3C;br/&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x3C;p&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x9;NIKON DF | NIKKOR-P 105MM F2.5 | FX | 100 ISO | F5.6 | 1/500 | 2:3
+&#x9;&#x9;&#x9;&#x9;&#x3C;/p&#x3E;
+			</content>
+		</entry>
+
+		<entry>
 			<title>Soft Red</title>
-			<link href="https://toyfriend.pet/photos/feed#20241025"/>
+			<link href="https://toyfriend.pet/photos/feed#20241101"/>
 			<id>https://toyfriend.pet/photos/feed#20241101</id>
 			<updated>2024-11-01T16:00:00-05:00</updated>
 			<summary>A photograph of a steel truss bridge in the evening light, surrounded by autumn trees.</summary>
 			<content type="html">
-&#x9;&#x9;&#x9;&#x9;&#x3C;img src=&#x22;https://toyfriend.pet/files/photos/P1020520_DT_edit.jpg&#x22; alt=&#x22;A photograph of a steel truss bridge in the evening light, surrounded by autumn trees.&#x22;/&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x3C;img src=&#x22;https://toyfriend.pet/files/photos/DSC_6900_DT_edit.jpg&#x22; alt=&#x22;A photograph of a steel truss bridge in the evening light, surrounded by autumn trees.&#x22;/&#x3E;
 &#x9;&#x9;&#x9;&#x9;&#x3C;br/&#x3E;
 &#x9;&#x9;&#x9;&#x9;&#x3C;p&#x3E;
 &#x9;&#x9;&#x9;&#x9;&#x9;NIKON DF | NIKKOR-P 105MM F2.5 | FX | 100 ISO | F5.6 | 1/400 | 3:2
