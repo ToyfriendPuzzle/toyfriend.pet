@@ -3,13 +3,28 @@
 
 	<title>toyfriend photos</title>
 	<link href="https://toyfriend.org/photos/feed"/>
-	<updated>2024-11-01T16:00:00-05:00</updated>
+	<updated>2024-11-04T17:43:00-05:00</updated>
 	<author>
 		<name>Nines Puzzle</name>
 		<email>squeak@toyfriend.pet</email>
 	</author>
 	<id>https://toyfriend.pet/photos/feed</id>
-	
+
+		<entry>
+			<title>Dizzy Stampede</title>
+			<link href="https://toyfriend.pet/photos/feed#20241104"/>
+			<id>https://toyfriend.pet/photos/feed#20241104</id>
+			<updated>2024-11-04T17:43:00-05:00</updated>
+			<summary>A black&white multi-exposure photo of a creature spinning in a dark open field.</summary>
+			<content type="html">
+&#x9;&#x9;&#x9;&#x9;&#x3C;img src=&#x22;https://toyfriend.pet/files/photos/P1020587-91_DT_edit_dizzy_dance_middle.jpg&#x22; alt=&#x22;A black&#x26;white multi-exposure photo of a creature spinning in a dark open field.&#x22;/&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x3C;br/&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x3C;p&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x9;LUMIX LX3 | 1/1.63&#x22; | 800 ISO | F2.8 | 1/125 | 12.8MM | FLASH | 9:16
+&#x9;&#x9;&#x9;&#x9;&#x3C;/p&#x3E;
+			</content>
+		</entry>
+
 		<entry>
 			<title>Autumn Chaos</title>
 			<link href="https://toyfriend.pet/photos/feed#20241102"/>
