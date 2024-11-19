@@ -3,12 +3,27 @@
 
 	<title>toyfriend photos</title>
 	<link href="https://toyfriend.org/photos/feed"/>
-	<updated>2024-11-18T17:40:00-05:00</updated>
+	<updated>2024-11-19T16:14:00-05:00</updated>
 	<author>
 		<name>Nines Puzzle</name>
 		<email>squeak@toyfriend.pet</email>
 	</author>
 	<id>https://toyfriend.pet/photos/feed</id>
+
+		<entry>
+			<title>Pink Fall</title>
+			<link href="https://toyfriend.pet/photos/feed#20241119"/>
+			<id>https://toyfriend.pet/photos/feed#20241119</id>
+			<updated>2024-11-19T16:14:00-05:00</updated>
+			<summary>A sideways photograph of tree branches. The leaves are pink and green.</summary>
+			<content type="html">
+&#x9;&#x9;&#x9;&#x9;&#x3C;img src=&#x22;https://toyfriend.pet/files/photos/9DF_7605_DT_edit.jpg&#x22; alt=&#x22;A sideways photograph of tree branches. The leaves are pink and green.&#x22;/&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x3C;br/&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x3C;p&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x9;NIKON DF | NIKKOR-P 105MM F2.5 | FX | 100 ISO | F2.5 | 1/1000 | 1:1 (2:3)
+&#x9;&#x9;&#x9;&#x9;&#x3C;/p&#x3E;
+			</content>
+		</entry>
 
 		<entry>
 			<title>Landmark</title>
@@ -32,7 +47,7 @@
 			<updated>2024-11-16T21:33:00-05:00</updated>
 			<summary>A photograph of a kitten laying in a sunbeam on a staircase.</summary>
 			<content type="html">
-&#x9;&#x9;&#x9;&#x9;&#x3C;img src=&#x22;https://toyfriend.pet/files/photos/P1020587-91_DT_edit_dizzy_dance_middle.jpg&#x22; alt=&#x22;A photograph of a kitten laying in a sunbeam on a staircase.&#x22;/&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x3C;img src=&#x22;https://toyfriend.pet/files/photos/9DF_8883_DT_edit.jpg&#x22; alt=&#x22;A photograph of a kitten laying in a sunbeam on a staircase.&#x22;/&#x3E;
 &#x9;&#x9;&#x9;&#x9;&#x3C;br/&#x3E;
 &#x9;&#x9;&#x9;&#x9;&#x3C;p&#x3E;
 &#x9;&#x9;&#x9;&#x9;&#x9;NIKON DF | NIKKOR-P 105MM F2.5 | FX | 400 ISO | F2.5 | 1/125 | 3:2
