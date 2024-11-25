@@ -3,12 +3,27 @@
 
 	<title>toyfriend photos</title>
 	<link href="https://toyfriend.org/photos/feed"/>
-	<updated>2024-11-19T16:14:00-05:00</updated>
+	<updated>2024-11-25T20:21:00-05:00</updated>
 	<author>
 		<name>Nines Puzzle</name>
 		<email>squeak@toyfriend.pet</email>
 	</author>
 	<id>https://toyfriend.pet/photos/feed</id>
+
+		<entry>
+			<title>Old Broads</title>
+			<link href="https://toyfriend.pet/photos/feed#20241125"/>
+			<id>https://toyfriend.pet/photos/feed#20241125</id>
+			<updated>2024-11-25T20:21:00-05:00</updated>
+			<summary>A photograph of the side of an abandoned train, grimy and grafittied.</summary>
+			<content type="html">
+&#x9;&#x9;&#x9;&#x9;&#x3C;img src=&#x22;https://toyfriend.pet/files/photos/IMGP5951_DT_edit_06.jpg&#x22; alt=&#x22;A photograph of the side of an abandoned train, grimy and grafittied.&#x22;/&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x3C;br/&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x3C;p&#x3E;
+&#x9;&#x9;&#x9;&#x9;&#x9;PENTAX Q | 1/2.3&#x22; | 06 TELEPHOTO ZOOM | 125 ISO | F2.8 | 1/800 | 15MM | 4:3
+&#x9;&#x9;&#x9;&#x9;&#x3C;/p&#x3E;
+			</content>
+		</entry>
 
 		<entry>
 			<title>Pink Fall</title>
