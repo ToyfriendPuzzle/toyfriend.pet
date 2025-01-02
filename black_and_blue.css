@@ -193,13 +193,16 @@ marquee {
     }
 }
 @media screen and (orientation:portrait) {
+    a {
+        font-size:3vw;
+    }
     .nines {
         opacity:1;
     }
     .columnbox {
         flex-flow:column nowrap;
     }
-
+    
     .box {
         margin:4px 0px;
     }
