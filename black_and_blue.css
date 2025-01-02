@@ -196,6 +196,9 @@ marquee {
     a {
         font-size:3vw;
     }
+    body {
+        font-size:2.7vw;
+    }
     .nines {
         opacity:1;
     }
