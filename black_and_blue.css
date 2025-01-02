@@ -1,0 +1,237 @@
+* {
+  box-sizing:border-box; 
+}
+body {
+    height:100%;
+    color: rgba(255, 255, 255, 1);
+    text-align:center;
+    padding: 0 0;
+    margin: 0 0;
+}
+a {
+    color: rgba(128,16,32);
+    font-size:1.1em;
+}
+marquee {
+    position:absolute;
+    width:100%;
+    left:0%;
+    top:0%;
+    z-index:-2;
+}
+.warning {
+    position:absolute;
+    top:0%;
+    left:0;
+    right:0;
+    margin-inline:auto;
+    height:99px;
+    background: rgba(0, 0, 0, 1);
+    padding:0 0;
+    z-index:-3;
+}
+.warning p {
+    text-align: center;
+    font-size: 27pt;
+    margin:27px 0px;
+}
+.nines {
+    position:absolute;
+    top:0%;
+    opacity:0;
+    height:99px;
+    width:100%;
+    background: none;
+}
+.nines p {
+    text-align: center;
+    font-size: 27pt;
+    margin:27px 0px;
+}
+.nines:hover {
+    opacity:1;
+}
+.bumper {
+    position:absolute;
+    bottom:0%;
+    width:100%;
+    height:63px;
+    overflow:hidden;
+    z-index:-8;
+    background: rgba(0, 0, 0, 1);
+}
+.bumpertop {
+    width:100%;
+    height:99px;
+    background: none;
+    margin:0 0;
+    padding:0 0;
+}
+.sticker {
+    position:sticky;
+    top:0%;
+    display:flex;
+    flex-flow:column nowrap;
+}
+.outer {
+    display: flex;
+    flex-flow:column nowrap;
+    height:calc(100% - 178px);
+    background: none;
+    margin:4px 0;
+    overflow-y:scroll;
+    overflow-x:hidden;
+    scrollbar-width:thin;
+    scrollbar-color: rgba(128, 16, 32, 1) rgba(0, 0, 0, 1);
+}
+.columnbox {
+    background: none;
+    display: flex;
+    justify-content:center;
+    height:auto;
+    margin:0 0;
+    margin:0 0;
+}
+
+.box {
+    display:flex;
+    flex-flow: column wrap;
+    width:auto;
+    height: auto;
+    padding:0 0;
+    color:rgba(255, 255, 255, 1);
+    background: rgba(0, 0, 0, 1);
+}
+.box img {
+    max-height: 100%;
+    max-width: 100%;
+    height: auto;
+    width: auto;
+    object-fit:contain;
+}
+.box p {
+    font-size:0.9vw;
+    margin:2px 2px;
+    background: rgba(0, 0, 0, 1);
+}
+.box h1 {
+    font-size:1.8vw;
+}
+.centered {
+    flex:2 1 0px;
+    text-align:center;
+}
+.lefted {
+    flex:1 1 0px;
+    text-align:left;
+    background: rgba(0, 0, 0, 1);
+}
+.righted {
+    flex:1 1 0px;
+    text-align:right;
+    background: rgba(0, 0, 0, 1);
+}
+
+.displayer {
+    display:flex;
+    flex-flow: column wrap;
+    width:auto;
+    height: auto;
+    padding:2px 2px;
+    margin:2px 0px;
+    color:rgba(255, 255, 255, 1);
+    background: rgba(0, 0, 0, 1);
+}
+.displayer p {
+    font-size:0.9vw;
+    margin:0 0;
+}
+.displayer a {
+    font-size:1.8vw;
+}
+.dleft p {
+    text-align:left;
+}
+.dright p {
+    text-align:right;
+}
+.bumper p {
+    font-size: 18px;
+}
+.lefted p {
+    text-align:left;
+}
+.righted p {
+    text-align:right;
+}
+#animatedBackground {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: url('./bg_curtain.png');
+    background-repeat: repeat;
+    background-position: 0 0;
+    animation: animatedBackground 666s linear infinite;
+    z-index:-9;
+}
+@keyframes animatedBackground {
+  from {
+    background-position: 0 0;
+  }
+  to {
+    background-position: -10000px -16666px;
+  }
+}
+@media screen and (orientation:landscape) {
+    .columnbox {
+        flex-flow:row nowrap;
+    }
+    .box {
+        margin:4px 4px;
+    }
+}
+@media screen and (orientation:portrait) {
+    .nines {
+        opacity:1;
+    }
+    .columnbox {
+        flex-flow:column nowrap;
+    }
+
+    .box {
+        margin:4px 0px;
+    }
+    .box p {
+        font-size:2.7vw;
+    }
+    .box h1 {
+        font-size:3.6vw;
+    }
+
+    .displayer p {
+        font-size:2.7vw;
+        margin:0 0;
+    }
+    .displayer a {
+        font-size:3.6vw;
+    }
+    .centered {
+        order:1;
+    }
+    .righted {
+        order:2;
+        text-align:center;
+    }
+    .lefted {
+        order:3;
+        text-align:center;
+    }
+    .righted p {
+        text-align:center;
+    }
+    .lefted p {
+        text-align:center;
+    }
+}
