@@ -100,9 +100,9 @@ marquee {
 .outer {
     display: flex;
     flex-flow:column nowrap;
-    height:calc(100% - 174px);
+    height:calc(100% - 178px);
     background: none;
-    margin:4px 20px;
+    margin:8px 20px;
     overflow-y:scroll;
     overflow-x:hidden;
     scrollbar-width:thin;
@@ -122,7 +122,7 @@ marquee {
     width:auto;
     height: auto;
     padding:0 0;
-    margin:4px 4px;
+    margin:0px 4px;
     color:rgba(255, 255, 255, 1);
     background: rgba(0, 0, 0, 1);
 }
@@ -234,8 +234,12 @@ marquee {
 
     .outer {
         margin:4px 4px;
+        height:calc(100% - 170px);
     }
-    
+
+    .box {
+        margin:4px 4px;
+    }
     .box p {
         font-size:2.7vw;
     }
