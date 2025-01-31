@@ -1,0 +1,7 @@
+write down rules of sportsball
+
+sequence: player name a category, next player name a category, then each player in turn must name a subject that connects both categories or be eliminated 
+
+or 
+
+player name a category, each player in turn must name a subject that fits the category, return to player, they must name a second subject, player after them names a new category, but must also name a subject that connects the old and new category
