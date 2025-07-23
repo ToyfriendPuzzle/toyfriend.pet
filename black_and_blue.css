@@ -290,4 +290,7 @@ marquee {
     .displayer a {
         font-size:3.6vw;
     }
+    .twobox {
+        flex-flow:column nowrap;
+    }
 }
