@@ -291,6 +291,6 @@ marquee {
         font-size:3.6vw;
     }
     .twobox {
-        flex-flow:column nowrap;
+        flex-flow:column wrap;
     }
 }
